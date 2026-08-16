@@ -1,4 +1,4 @@
-Here is a tailored **README.md** specifically customized for your GitHub repository [CodeDroid999/Weather-app](https://github.com/CodeDroid999/Weather-app):
+
 
 ---
 
